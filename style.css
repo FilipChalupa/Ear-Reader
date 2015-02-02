@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+textarea {
+    width: 500px;
+    height: 300px;
+    font-size: 130%;
+}
+button {
+    font-size: 200%;
+}
+#state span {
+    color: red;
+}
+#state {
+    font-size: 150%;
+}
